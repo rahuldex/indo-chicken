@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fef3c7"/>
+  <ellipse cx="300" cy="200" rx="170" ry="100" fill="#fca5a5"/>
+  <ellipse cx="300" cy="190" rx="140" ry="80" fill="#fecaca"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#92400e">Boneless Chicken Breast</text>
+</svg>

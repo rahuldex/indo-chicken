@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fef2f2"/>
+  <ellipse cx="300" cy="210" rx="155" ry="88" fill="#dc2626"/>
+  <ellipse cx="300" cy="200" rx="135" ry="72" fill="#ef4444"/>
+  <path d="M200 180 L220 160 M400 180 L380 160 M300 150 L300 130" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#991b1b">Peri Peri Chicken</text>
+</svg>

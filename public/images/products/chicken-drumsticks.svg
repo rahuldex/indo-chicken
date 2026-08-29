@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fff7ed"/>
+  <ellipse cx="220" cy="200" rx="55" ry="90" fill="#fdba74" transform="rotate(-15 220 200)"/>
+  <ellipse cx="380" cy="200" rx="55" ry="90" fill="#fb923c" transform="rotate(15 380 200)"/>
+  <rect x="205" y="270" width="30" height="50" rx="8" fill="#fef3c7" transform="rotate(-15 220 200)"/>
+  <rect x="365" y="270" width="30" height="50" rx="8" fill="#fef3c7" transform="rotate(15 380 200)"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#9a3412">Chicken Drumsticks</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fff7ed"/>
+  <rect x="160" y="130" width="80" height="60" rx="8" fill="#fdba74" transform="rotate(-10 200 160)"/>
+  <rect x="260" y="120" width="80" height="65" rx="8" fill="#fb923c" transform="rotate(5 300 152)"/>
+  <rect x="360" y="135" width="75" height="58" rx="8" fill="#fdba74" transform="rotate(-5 397 164)"/>
+  <rect x="200" y="210" width="85" height="62" rx="8" fill="#fb923c" transform="rotate(8 242 241)"/>
+  <rect x="310" y="205" width="78" height="60" rx="8" fill="#fdba74" transform="rotate(-8 349 235)"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#9a3412">Chicken Curry Cut</text>
+</svg>

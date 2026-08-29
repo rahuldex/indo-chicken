@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fef3c7"/>
+  <ellipse cx="200" cy="190" rx="70" ry="35" fill="#fbbf24" transform="rotate(-20 200 190)"/>
+  <ellipse cx="300" cy="210" rx="75" ry="38" fill="#f59e0b" transform="rotate(5 300 210)"/>
+  <ellipse cx="400" cy="185" rx="68" ry="33" fill="#fbbf24" transform="rotate(25 400 185)"/>
+  <ellipse cx="250" cy="260" rx="65" ry="32" fill="#f59e0b" transform="rotate(-10 250 260)"/>
+  <ellipse cx="360" cy="255" rx="70" ry="34" fill="#fbbf24" transform="rotate(15 360 255)"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#92400e">Chicken Wings</text>
+</svg>

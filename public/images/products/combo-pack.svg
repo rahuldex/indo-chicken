@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#f0fdf4"/>
+  <rect x="140" y="100" width="320" height="200" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="220" cy="170" r="30" fill="#fca5a5"/>
+  <circle cx="300" cy="170" r="30" fill="#fde68a"/>
+  <circle cx="380" cy="170" r="30" fill="#c084fc"/>
+  <rect x="200" y="230" width="200" height="40" rx="8" fill="#86efac"/>
+  <text x="300" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#16a34a">BEST VALUE</text>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#166534">Family Combo Pack</text>
+</svg>

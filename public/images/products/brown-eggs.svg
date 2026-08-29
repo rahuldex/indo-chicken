@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#fffbeb"/>
+  <ellipse cx="200" cy="210" rx="45" ry="58" fill="#d97706"/>
+  <ellipse cx="300" cy="200" rx="48" ry="62" fill="#b45309"/>
+  <ellipse cx="400" cy="215" rx="44" ry="56" fill="#d97706"/>
+  <ellipse cx="250" cy="270" rx="42" ry="54" fill="#b45309"/>
+  <ellipse cx="350" cy="275" rx="46" ry="58" fill="#d97706"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#92400e">Brown Farm Eggs</text>
+</svg>

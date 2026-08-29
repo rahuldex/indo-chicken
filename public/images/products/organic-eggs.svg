@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#ecfdf5"/>
+  <ellipse cx="220" cy="210" rx="50" ry="65" fill="#fde68a" stroke="#16a34a" stroke-width="2"/>
+  <ellipse cx="300" cy="200" rx="52" ry="68" fill="#fef08a" stroke="#16a34a" stroke-width="2"/>
+  <ellipse cx="380" cy="210" rx="50" ry="65" fill="#fde68a" stroke="#16a34a" stroke-width="2"/>
+  <text x="300" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#16a34a">ORGANIC</text>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="600" fill="#166534">Organic Country Eggs</text>
+</svg>
